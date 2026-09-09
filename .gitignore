@@ -1,0 +1,8 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Las salidas se regeneran corriendo los scripts
+**/datos/salida/*
+!**/datos/salida/.gitkeep
